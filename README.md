@@ -9,6 +9,7 @@ Currently this bot can only be executed on the user's device, but I'm planning t
 ### Instruction
 
 (assuming that you have a Telegram account and is familiar with Telegram)
+
 (I am using WSL in windows 10 with Ubuntu 18.04 LTS, so the pipenv should be done in bash while ngrok is done in cmd. Feel free to use the way you are familiar but be aware of some unexpected behavior.)
 
 - Create a bot, get the token, put it into the config file. (contact BotFather)
