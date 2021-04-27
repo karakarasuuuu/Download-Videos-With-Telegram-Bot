@@ -1,3 +1,5 @@
+This project is outdated. The [new version of Telegram bot](https://github.com/karakarasuuuu/basic-telegram-bot-python) written by me is easier to build a bot. It is created by the Python wrapper of Telegram bot API.
+
 ## Description
 
 This program can help you to download videos by using [youtube-dl](https://github.com/ytdl-org/youtube-dl).
